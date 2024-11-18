@@ -10,7 +10,7 @@ html, body{
 }
 p{
     position:absolute;
-    top:400px;
+    top:100px;
     left:300px;
 }
 canvas{
