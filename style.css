@@ -1,0 +1,23 @@
+html, body{
+    padding:0;
+    margin:auto;
+}
+
+#image{
+    position:absolute;
+    top:500px;
+    left:20px;
+}
+p{
+    position:absolute;
+    top:400px;
+    left:300px;
+}
+canvas{
+    display:block;
+    position:relative;
+    left:30vw;
+    top:30vh;
+    width:50vw !important;
+    height:50vh !important;
+}
